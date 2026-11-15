@@ -172,7 +172,10 @@ victim device is possible.
 - `exploit.py`: the harvester
 - `requirements.txt`: Python dependencies
 - `README.md`: this file
-- `state.md`: operator snapshot of the previous detailed run notes
+
+## Note
+
+developed with deepseek 4.1 flash
 
 ## Legal
 
